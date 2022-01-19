@@ -1,6 +1,7 @@
 Dialogue-Paper
 ======
 ### 2021
+- [ACL] [Space Efficient Context Encoding for Non-Task-Oriented Dialogue Generation with Graph Attention Transformer](https://aclanthology.org/2021.acl-long.546/)
 - [EMNLP] [EARL: Informative Knowledge-Grounded Conversation Generation withEntity-Agnostic Representation Learning](https://aclanthology.org/2021.emnlp-main.184.pdf)
 - [EMNLP] [Exploring Non-Autoregressive Text Style Transfer](https://aclanthology.org/2021.emnlp-main.730.pdf)
 - [ACL] [GLAT: Glancing Transformer for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/2008.07905.pdf)
