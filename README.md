@@ -18,6 +18,7 @@ Dialogue-Paper
 - [EMNLP][A Three-Stage Learning Framework for Low-Resource Knowledge-Grounded Dialogue Generation](https://arxiv.org/abs/2109.04096)
 - [EMNLP][EARL: Informative Knowledge-Grounded Conversation Generation withEntity-Agnostic Representation Learning](https://aclanthology.org/2021.emnlp-main.184.pdf)
 - [Todo][EMNLP] [Exploring Non-Autoregressive Text Style Transfer](https://aclanthology.org/2021.emnlp-main.730.pdf) 
+- [EMNLP-finding][Towards Document-Level Paraphrase Generation with Sentence Rewriting and Reordering](https://arxiv.org/abs/2109.07095)
 - [Todo][EACL] [Non-Autoregressive Text Generation with Pre-trained Language Models](https://aclanthology.org/2021.eacl-main.18.pdf) 
 - [NLPCC][Knowledge-Grounded Dialogue with Reward-Driven Knowledge Selection](https://arxiv.org/abs/2108.13686)
 ### 2020
